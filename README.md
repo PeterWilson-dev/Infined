@@ -1,4 +1,6 @@
-![banner](asset/infined.gif)
+<p align="center">
+  <img src="asset/infined.gif" alt="Infined AI Banner" width="100%">
+</p>
 # Infined AI
 
 Infined is a CLI-based security automation framework that integrates **The-Capsule** intelligence unit and **The Frog** exploitation unit into a self-operating recursive ecosystem. Designed to eliminate manual intervention, the system pipes technical findings—such as JWT tokens, API keys, and credentials—directly from the scanning phase to the execution phase within local memory, creating an automated attack cycle that continuously deepens its target penetration until sensitive data is successfully retrieved.
