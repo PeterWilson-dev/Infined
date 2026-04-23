@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"
   <img src="asset/infined.gif" alt="Infined AI Banner" width="100%">
 </p>
 
